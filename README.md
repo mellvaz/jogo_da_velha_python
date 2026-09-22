@@ -35,7 +35,7 @@ O jogador seleciona uma posição e o tabuleiro é atualizado:
 ### 3. Validação de Jogada Inválida
 Caso o jogador escolha uma posição ocupada ou fora do limite, o sistema exibe um alerta e pede a jogada novamente:
 
-<img width="540" height="230" alt="Captura de tela 2026-09-22 185719" src="https://github.com/user-attachments/assets/a923efcb-8cd1-40f2-941e-f4dab99dc262" />
+<img width="627" height="233" alt="Captura de tela 2026-09-22 185734" src="https://github.com/user-attachments/assets/5fedcbd9-03a1-4d97-8d60-1f078aee5a7c" />
 
 ---
 
