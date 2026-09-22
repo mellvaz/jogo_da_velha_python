@@ -20,7 +20,7 @@ Este projeto foi construído para praticar conceitos fundamentais de programaç�
 ### 1. Início do Jogo
 O tabuleiro é apresentado com as posições disponíveis:
 
-
+<img width="608" height="260" alt="Captura de tela 2026-09-22 185641" src="https://github.com/user-attachments/assets/781f9371-15d4-4466-abae-404881a06a9a" />
 
 ---
 
@@ -28,6 +28,7 @@ O tabuleiro é apresentado com as posições disponíveis:
 O jogador seleciona uma posição e o tabuleiro é atualizado:
 
 <img width="496" height="227" alt="Captura de tela 2026-09-22 185704" src="https://github.com/user-attachments/assets/45d30b54-13a0-4ea7-8944-5263c23f3da3" />
+<img width="627" height="233" alt="Captura de tela 2026-09-22 185734" src="https://github.com/user-attachments/assets/429324b6-da1d-427a-90bc-48d4d9cb872c" />
 
 ---
 
@@ -35,7 +36,6 @@ O jogador seleciona uma posição e o tabuleiro é atualizado:
 Caso o jogador escolha uma posição ocupada ou fora do limite, o sistema exibe um alerta e pede a jogada novamente:
 
 <img width="540" height="230" alt="Captura de tela 2026-09-22 185719" src="https://github.com/user-attachments/assets/a923efcb-8cd1-40f2-941e-f4dab99dc262" />
-<img width="627" height="233" alt="Captura de tela 2026-09-22 185734" src="https://github.com/user-attachments/assets/429324b6-da1d-427a-90bc-48d4d9cb872c" />
 
 ---
 
