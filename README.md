@@ -58,4 +58,4 @@ Quando todas as casas são preenchidas sem um vencedor:
 1. Certifica-te de ter o **Python 3** instalado na tua máquina.
 2. Clona este repositório:
    ```bash
-   git clone [https://github.com/teu-usuario/teu-repositorio.git](https://github.com/teu-usuario/teu-repositorio.git)
+   git clone (https://github.com/mellvaz/jogo_da_velha_python.git)
